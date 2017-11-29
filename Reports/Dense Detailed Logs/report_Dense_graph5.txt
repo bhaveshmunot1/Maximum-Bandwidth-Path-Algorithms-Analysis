@@ -1,0 +1,111 @@
+ Time reqd for Finding maximum spanning tree = 0.073169
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 1780 Destination = 2671
+ Time reqd for Naive Dijkstra's approach = 0.020586
+ Time reqd for Dijkstra's Heap approach = 0.00042
+ Time reqd for Kruskal spanning tree approach = 0.012006
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 4014 Destination = 4540
+ Time reqd for Naive Dijkstra's approach = 0.079659
+ Time reqd for Dijkstra's Heap approach = 0.003796
+ Time reqd for Kruskal spanning tree approach = 0.009653
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 1590 Destination = 1643
+ Time reqd for Naive Dijkstra's approach = 0.005654
+ Time reqd for Dijkstra's Heap approach = 0.002163
+ Time reqd for Kruskal spanning tree approach = 0.011796
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 3510 Destination = 1111
+ Time reqd for Naive Dijkstra's approach = 0.0877
+ Time reqd for Dijkstra's Heap approach = 0.004318
+ Time reqd for Kruskal spanning tree approach = 0.010661
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 4584 Destination = 2328
+ Time reqd for Naive Dijkstra's approach = 0.04091
+ Time reqd for Dijkstra's Heap approach = 0.001747
+ Time reqd for Kruskal spanning tree approach = 0.008609
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 291 Destination = 923
+ Time reqd for Naive Dijkstra's approach = 0.027367
+ Time reqd for Dijkstra's Heap approach = 0.003411
+ Time reqd for Kruskal spanning tree approach = 0.012742
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 2089 Destination = 2161
+ Time reqd for Naive Dijkstra's approach = 0.064746
+ Time reqd for Dijkstra's Heap approach = 0.000592
+ Time reqd for Kruskal spanning tree approach = 0.011713
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 2588 Destination = 4827
+ Time reqd for Naive Dijkstra's approach = 0.073803
+ Time reqd for Dijkstra's Heap approach = 0.002919
+ Time reqd for Kruskal spanning tree approach = 0.012464
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 1144 Destination = 4823
+ Time reqd for Naive Dijkstra's approach = 0.089579
+ Time reqd for Dijkstra's Heap approach = 0.004003
+ Time reqd for Kruskal spanning tree approach = 0.014925
+
+
+
+
+Number of nodes in graph = 5000
+This is a Dense graph. All nodes are connected to approximately 20 percent of other nodes
+Number of edges in graph = 22184
+Source = 2508 Destination = 206
+ Time reqd for Naive Dijkstra's approach = 0.120127
+ Time reqd for Dijkstra's Heap approach = 0.005421
+ Time reqd for Kruskal spanning tree approach = 0.011715
+
+
+
+

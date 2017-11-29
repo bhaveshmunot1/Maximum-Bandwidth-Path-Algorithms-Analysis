@@ -1,0 +1,111 @@
+ Time reqd for Finding maximum spanning tree = 0.065464
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 1991 Destination = 4464
+ Time reqd for Naive Dijkstra's approach = 0.08918
+ Time reqd for Dijkstra's Heap approach = 0.001749
+ Time reqd for Kruskal spanning tree approach = 0.011177
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 1056 Destination = 2163
+ Time reqd for Naive Dijkstra's approach = 0.001747
+ Time reqd for Dijkstra's Heap approach = 0.005602
+ Time reqd for Kruskal spanning tree approach = 0.010607
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 4577 Destination = 2036
+ Time reqd for Naive Dijkstra's approach = 0.030852
+ Time reqd for Dijkstra's Heap approach = 0.0025
+ Time reqd for Kruskal spanning tree approach = 0.009469
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 3462 Destination = 3931
+ Time reqd for Naive Dijkstra's approach = 0.004082
+ Time reqd for Dijkstra's Heap approach = 0.00063
+ Time reqd for Kruskal spanning tree approach = 0.01198
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 1324 Destination = 919
+ Time reqd for Naive Dijkstra's approach = 0.035224
+ Time reqd for Dijkstra's Heap approach = 0.002868
+ Time reqd for Kruskal spanning tree approach = 0.012881
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 1486 Destination = 844
+ Time reqd for Naive Dijkstra's approach = 0.110212
+ Time reqd for Dijkstra's Heap approach = 0.006892
+ Time reqd for Kruskal spanning tree approach = 0.010847
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 4695 Destination = 2192
+ Time reqd for Naive Dijkstra's approach = 0.014657
+ Time reqd for Dijkstra's Heap approach = 0.001732
+ Time reqd for Kruskal spanning tree approach = 0.011332
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 2372 Destination = 4871
+ Time reqd for Naive Dijkstra's approach = 0.018552
+ Time reqd for Dijkstra's Heap approach = 0.001224
+ Time reqd for Kruskal spanning tree approach = 0.010136
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 4286 Destination = 4144
+ Time reqd for Naive Dijkstra's approach = 0.121404
+ Time reqd for Dijkstra's Heap approach = 0.005596
+ Time reqd for Kruskal spanning tree approach = 0.007948
+
+
+
+
+Number of nodes in graph = 5000
+This is a sparse graph. All nodes are connected to 8 other nodes on average
+Number of edges in graph = 22223
+Source = 3831 Destination = 3420
+ Time reqd for Naive Dijkstra's approach = 0.106711
+ Time reqd for Dijkstra's Heap approach = 0.004949
+ Time reqd for Kruskal spanning tree approach = 0.011707
+
+
+
+
