@@ -9,6 +9,7 @@
 #include <chrono>
 #include <map>
 using namespace std;
+
 #define MAX_NODES 50000
 #define UNDEFINED -1
 #define HASH_MUL 1000000
