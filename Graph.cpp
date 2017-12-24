@@ -363,7 +363,6 @@ MBPPath Graph::KruskalMaxBandwidthPath(int source, int destination, unordered_ma
 	return answer;
 }
 
-
 Graph::~Graph()
 {
     //dtor
